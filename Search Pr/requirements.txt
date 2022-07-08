@@ -1,4 +1,0 @@
-pyrogram
-bs4
-requests
-requests[socks]
